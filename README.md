@@ -1,2 +1,3 @@
-# Hello-world
-bla-bla-bla
+# JS-experiments
+Это мой проект на котором я буду испытывать навыки полученные при изучении языка
+Javascript
